@@ -1,5 +1,5 @@
 <h1>Portfolio_Git2Azure_Week2</h1>
-Week 2 Project of Git2Azure Bootcamp
+Week 2 Project of Git2Azure Bootcamp \n
 This is a deployed website with the help of HTML, CSS and Javascript. The site has been deployed with the help of azure.
 
 Url-https://thankful-dune-031082610.6.azurestaticapps.net/
