@@ -1,3 +1,4 @@
+Portfolio_Git2Azure_Week2
 Week 2 Project of Git2Azure Bootcamp
 This is a deployed website with the help of HTML, CSS and Javascript. The site has been deployed with the help of azure.
 
